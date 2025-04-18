@@ -1,0 +1,210 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no" ?>
+<gpx xmlns="http://www.topografix.com/GPX/1/1" creator="OruxMaps v.10.7.4 GP" version="1.1" xmlns:gpxtpx="http://www.garmin.com/xmlschemas/TrackPointExtension/v2" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:om="http://www.oruxmaps.com/oruxmapsextensions/1/0" xsi:schemaLocation="http://www.topografix.com/GPX/1/1 http://www.topografix.com/GPX/1/1/gpx.xsd">
+<!-- owner: 528cf9b1d1e6a5 -->
+<metadata>
+<name><![CDATA[Waypoints]]></name>
+<link href="https://www.oruxmaps.com">
+<text>OruxMaps GP</text>
+</link>
+<time>2025-04-18T00:03:32.114Z</time></metadata>
+<wpt lat="33.4474908" lon="130.0256276">
+<ele>13.60</ele>
+<time>2025-04-17T03:29:38.095Z</time>
+<name><![CDATA[T3.0]]></name>
+<desc><![CDATA[coast transact 3]]></desc>
+<sym>Waypoint</sym>
+<type>Waypoint</type>
+<extensions>
+<om:oruxmapsextensions>
+<om:ext type="ICON" subtype="0">1</om:ext>
+<om:ext type="IMAGEN" subtype="0">/storage/emulated/0/Android/data/com.orux.oruxmapsDonate/files/oruxmaps/pictures/OMIMG_20250417_123034.jpg</om:ext>
+<om:ext type="IMAGEN" subtype="0">/storage/emulated/0/Android/data/com.orux.oruxmapsDonate/files/oruxmaps/pictures/OMIMG_20250417_123042.jpg</om:ext>
+</om:oruxmapsextensions>
+</extensions>
+</wpt>
+<wpt lat="33.4471884" lon="130.0257218">
+<ele>2.15</ele>
+<time>2025-04-17T03:54:58.178Z</time>
+<name><![CDATA[T3.1]]></name>
+<desc><![CDATA[Transect 3 quadrant 1 ]]></desc>
+<sym>Waypoint</sym>
+<type>Waypoint</type>
+<extensions>
+<om:oruxmapsextensions>
+<om:ext type="ICON" subtype="0">1</om:ext>
+<om:ext type="IMAGEN" subtype="0">/storage/emulated/0/Android/data/com.orux.oruxmapsDonate/files/oruxmaps/pictures/OMIMG_20250417_125548.jpg</om:ext>
+<om:ext type="IMAGEN" subtype="0">/storage/emulated/0/Android/data/com.orux.oruxmapsDonate/files/oruxmaps/pictures/OMIMG_20250417_125555.jpg</om:ext>
+<om:ext type="IMAGEN" subtype="0">/storage/emulated/0/Android/data/com.orux.oruxmapsDonate/files/oruxmaps/pictures/OMIMG_20250417_125602.jpg</om:ext>
+<om:ext type="IMAGEN" subtype="0">/storage/emulated/0/Android/data/com.orux.oruxmapsDonate/files/oruxmaps/pictures/OMIMG_20250417_125609.jpg</om:ext>
+</om:oruxmapsextensions>
+</extensions>
+</wpt>
+<wpt lat="33.4460452" lon="130.0260359">
+<ele>-10.27</ele>
+<time>2025-04-17T04:28:38.189Z</time>
+<name><![CDATA[T3.2]]></name>
+<desc><![CDATA[transect 3 section 2]]></desc>
+<sym>Waypoint</sym>
+<type>Waypoint</type>
+<extensions>
+<om:oruxmapsextensions>
+<om:ext type="ICON" subtype="0">1</om:ext>
+<om:ext type="IMAGEN" subtype="0">/storage/emulated/0/Android/data/com.orux.oruxmapsDonate/files/oruxmaps/pictures/OMIMG_20250417_132902.jpg</om:ext>
+<om:ext type="IMAGEN" subtype="0">/storage/emulated/0/Android/data/com.orux.oruxmapsDonate/files/oruxmaps/pictures/OMIMG_20250417_132909.jpg</om:ext>
+<om:ext type="IMAGEN" subtype="0">/storage/emulated/0/Android/data/com.orux.oruxmapsDonate/files/oruxmaps/pictures/OMIMG_20250417_132915.jpg</om:ext>
+<om:ext type="IMAGEN" subtype="0">/storage/emulated/0/Android/data/com.orux.oruxmapsDonate/files/oruxmaps/pictures/OMIMG_20250417_132921.jpg</om:ext>
+</om:oruxmapsextensions>
+</extensions>
+</wpt>
+<wpt lat="33.4450175" lon="130.0264319">
+<ele>23.69</ele>
+<time>2025-04-17T04:45:55.682Z</time>
+<name><![CDATA[T3.3]]></name>
+<desc><![CDATA[transect 3 section 3]]></desc>
+<sym>Waypoint</sym>
+<type>Waypoint</type>
+<extensions>
+<om:oruxmapsextensions>
+<om:ext type="ICON" subtype="0">1</om:ext>
+<om:ext type="IMAGEN" subtype="0">/storage/emulated/0/Android/data/com.orux.oruxmapsDonate/files/oruxmaps/pictures/OMIMG_20250417_134614.jpg</om:ext>
+<om:ext type="IMAGEN" subtype="0">/storage/emulated/0/Android/data/com.orux.oruxmapsDonate/files/oruxmaps/pictures/OMIMG_20250417_134620.jpg</om:ext>
+<om:ext type="IMAGEN" subtype="0">/storage/emulated/0/Android/data/com.orux.oruxmapsDonate/files/oruxmaps/pictures/OMIMG_20250417_134625.jpg</om:ext>
+<om:ext type="IMAGEN" subtype="0">/storage/emulated/0/Android/data/com.orux.oruxmapsDonate/files/oruxmaps/pictures/OMIMG_20250417_134630.jpg</om:ext>
+</om:oruxmapsextensions>
+</extensions>
+</wpt>
+<wpt lat="33.4461311" lon="130.0146375">
+<ele>0.14</ele>
+<time>2025-04-17T05:42:07.840Z</time>
+<name><![CDATA[T2.0]]></name>
+<desc><![CDATA[shore]]></desc>
+<sym>Waypoint</sym>
+<type>Waypoint</type>
+<extensions>
+<om:oruxmapsextensions>
+<om:ext type="ICON" subtype="0">1</om:ext>
+<om:ext type="IMAGEN" subtype="0">/storage/emulated/0/Android/data/com.orux.oruxmapsDonate/files/oruxmaps/pictures/OMIMG_20250417_144222.jpg</om:ext>
+<om:ext type="IMAGEN" subtype="0">/storage/emulated/0/Android/data/com.orux.oruxmapsDonate/files/oruxmaps/pictures/OMIMG_20250417_144230.jpg</om:ext>
+</om:oruxmapsextensions>
+</extensions>
+</wpt>
+<wpt lat="33.4455746" lon="130.0147328">
+<ele>4.85</ele>
+<time>2025-04-17T05:53:11.722Z</time>
+<name><![CDATA[T2.1]]></name>
+<desc><![CDATA[transect 2 section 1]]></desc>
+<sym>Waypoint</sym>
+<type>Waypoint</type>
+<extensions>
+<om:oruxmapsextensions>
+<om:ext type="ICON" subtype="0">1</om:ext>
+<om:ext type="IMAGEN" subtype="0">/storage/emulated/0/Android/data/com.orux.oruxmapsDonate/files/oruxmaps/pictures/OMIMG_20250417_145326.jpg</om:ext>
+<om:ext type="IMAGEN" subtype="0">/storage/emulated/0/Android/data/com.orux.oruxmapsDonate/files/oruxmaps/pictures/OMIMG_20250417_145332.jpg</om:ext>
+<om:ext type="IMAGEN" subtype="0">/storage/emulated/0/Android/data/com.orux.oruxmapsDonate/files/oruxmaps/pictures/OMIMG_20250417_145337.jpg</om:ext>
+<om:ext type="IMAGEN" subtype="0">/storage/emulated/0/Android/data/com.orux.oruxmapsDonate/files/oruxmaps/pictures/OMIMG_20250417_145342.jpg</om:ext>
+</om:oruxmapsextensions>
+</extensions>
+</wpt>
+<wpt lat="33.4446698" lon="130.0146991">
+<ele>10.32</ele>
+<time>2025-04-17T06:10:10.021Z</time>
+<name><![CDATA[T2.2]]></name>
+<desc><![CDATA[transect 2 section 2]]></desc>
+<sym>Waypoint</sym>
+<type>Waypoint</type>
+<extensions>
+<om:oruxmapsextensions>
+<om:ext type="ICON" subtype="0">1</om:ext>
+<om:ext type="IMAGEN" subtype="0">/storage/emulated/0/Android/data/com.orux.oruxmapsDonate/files/oruxmaps/pictures/OMIMG_20250417_151024.jpg</om:ext>
+<om:ext type="IMAGEN" subtype="0">/storage/emulated/0/Android/data/com.orux.oruxmapsDonate/files/oruxmaps/pictures/OMIMG_20250417_151030.jpg</om:ext>
+<om:ext type="IMAGEN" subtype="0">/storage/emulated/0/Android/data/com.orux.oruxmapsDonate/files/oruxmaps/pictures/OMIMG_20250417_151036.jpg</om:ext>
+<om:ext type="IMAGEN" subtype="0">/storage/emulated/0/Android/data/com.orux.oruxmapsDonate/files/oruxmaps/pictures/OMIMG_20250417_151040.jpg</om:ext>
+</om:oruxmapsextensions>
+</extensions>
+</wpt>
+<wpt lat="33.4436995" lon="130.0148050">
+<ele>16.66</ele>
+<time>2025-04-17T06:28:32.695Z</time>
+<name><![CDATA[T2.3]]></name>
+<desc><![CDATA[transect 2 section 3]]></desc>
+<sym>Waypoint</sym>
+<type>Waypoint</type>
+<extensions>
+<om:oruxmapsextensions>
+<om:ext type="ICON" subtype="0">1</om:ext>
+<om:ext type="IMAGEN" subtype="0">/storage/emulated/0/Android/data/com.orux.oruxmapsDonate/files/oruxmaps/pictures/OMIMG_20250417_152850.jpg</om:ext>
+<om:ext type="IMAGEN" subtype="0">/storage/emulated/0/Android/data/com.orux.oruxmapsDonate/files/oruxmaps/pictures/OMIMG_20250417_152907.jpg</om:ext>
+<om:ext type="IMAGEN" subtype="0">/storage/emulated/0/Android/data/com.orux.oruxmapsDonate/files/oruxmaps/pictures/OMIMG_20250417_152916.jpg</om:ext>
+<om:ext type="IMAGEN" subtype="0">/storage/emulated/0/Android/data/com.orux.oruxmapsDonate/files/oruxmaps/pictures/OMIMG_20250417_152939.jpg</om:ext>
+</om:oruxmapsextensions>
+</extensions>
+</wpt>
+<wpt lat="33.4475716" lon="129.9947920">
+<ele>15.64</ele>
+<time>2025-04-17T07:10:25.118Z</time>
+<name><![CDATA[T1.0]]></name>
+<desc><![CDATA[Shoreline ]]></desc>
+<sym>Waypoint</sym>
+<type>Waypoint</type>
+<extensions>
+<om:oruxmapsextensions>
+<om:ext type="ICON" subtype="0">1</om:ext>
+<om:ext type="IMAGEN" subtype="0">/storage/emulated/0/Android/data/com.orux.oruxmapsDonate/files/oruxmaps/pictures/OMIMG_20250417_161035.jpg</om:ext>
+<om:ext type="IMAGEN" subtype="0">/storage/emulated/0/Android/data/com.orux.oruxmapsDonate/files/oruxmaps/pictures/OMIMG_20250417_161042.jpg</om:ext>
+</om:oruxmapsextensions>
+</extensions>
+</wpt>
+<wpt lat="33.4470864" lon="129.9947017">
+<ele>2.26</ele>
+<time>2025-04-17T07:20:11.882Z</time>
+<name><![CDATA[T1.1]]></name>
+<desc><![CDATA[transect 1 section 1]]></desc>
+<sym>Waypoint</sym>
+<type>Waypoint</type>
+<extensions>
+<om:oruxmapsextensions>
+<om:ext type="ICON" subtype="0">1</om:ext>
+<om:ext type="IMAGEN" subtype="0">/storage/emulated/0/Android/data/com.orux.oruxmapsDonate/files/oruxmaps/pictures/OMIMG_20250417_162027.jpg</om:ext>
+<om:ext type="IMAGEN" subtype="0">/storage/emulated/0/Android/data/com.orux.oruxmapsDonate/files/oruxmaps/pictures/OMIMG_20250417_162034.jpg</om:ext>
+<om:ext type="IMAGEN" subtype="0">/storage/emulated/0/Android/data/com.orux.oruxmapsDonate/files/oruxmaps/pictures/OMIMG_20250417_162039.jpg</om:ext>
+<om:ext type="IMAGEN" subtype="0">/storage/emulated/0/Android/data/com.orux.oruxmapsDonate/files/oruxmaps/pictures/OMIMG_20250417_162046.jpg</om:ext>
+<om:ext type="IMAGEN" subtype="0">/storage/emulated/0/Android/data/com.orux.oruxmapsDonate/files/oruxmaps/pictures/OMIMG_20250417_162051.jpg</om:ext>
+</om:oruxmapsextensions>
+</extensions>
+</wpt>
+<wpt lat="33.4462269" lon="129.9946005">
+<ele>-5.44</ele>
+<time>2025-04-17T07:36:27.975Z</time>
+<name><![CDATA[T1.2]]></name>
+<desc><![CDATA[transect 1 section 2]]></desc>
+<sym>Waypoint</sym>
+<type>Waypoint</type>
+<extensions>
+<om:oruxmapsextensions>
+<om:ext type="ICON" subtype="0">1</om:ext>
+<om:ext type="IMAGEN" subtype="0">/storage/emulated/0/Android/data/com.orux.oruxmapsDonate/files/oruxmaps/pictures/OMIMG_20250417_163642.jpg</om:ext>
+<om:ext type="IMAGEN" subtype="0">/storage/emulated/0/Android/data/com.orux.oruxmapsDonate/files/oruxmaps/pictures/OMIMG_20250417_163648.jpg</om:ext>
+<om:ext type="IMAGEN" subtype="0">/storage/emulated/0/Android/data/com.orux.oruxmapsDonate/files/oruxmaps/pictures/OMIMG_20250417_163656.jpg</om:ext>
+<om:ext type="IMAGEN" subtype="0">/storage/emulated/0/Android/data/com.orux.oruxmapsDonate/files/oruxmaps/pictures/OMIMG_20250417_163701.jpg</om:ext>
+</om:oruxmapsextensions>
+</extensions>
+</wpt>
+<wpt lat="33.4452283" lon="129.9945174">
+<ele>-1.59</ele>
+<time>2025-04-17T07:51:38.068Z</time>
+<name><![CDATA[T1.3]]></name>
+<desc><![CDATA[transect 1 section 3]]></desc>
+<sym>Waypoint</sym>
+<type>Waypoint</type>
+<extensions>
+<om:oruxmapsextensions>
+<om:ext type="ICON" subtype="0">1</om:ext>
+<om:ext type="IMAGEN" subtype="0">/storage/emulated/0/Android/data/com.orux.oruxmapsDonate/files/oruxmaps/pictures/OMIMG_20250417_165159.jpg</om:ext>
+<om:ext type="IMAGEN" subtype="0">/storage/emulated/0/Android/data/com.orux.oruxmapsDonate/files/oruxmaps/pictures/OMIMG_20250417_165206.jpg</om:ext>
+<om:ext type="IMAGEN" subtype="0">/storage/emulated/0/Android/data/com.orux.oruxmapsDonate/files/oruxmaps/pictures/OMIMG_20250417_165212.jpg</om:ext>
+<om:ext type="IMAGEN" subtype="0">/storage/emulated/0/Android/data/com.orux.oruxmapsDonate/files/oruxmaps/pictures/OMIMG_20250417_165218.jpg</om:ext>
+<om:ext type="IMAGEN" subtype="0">/storage/emulated/0/Android/data/com.orux.oruxmapsDonate/files/oruxmaps/pictures/OMIMG_20250417_165225.jpg</om:ext>
+</om:oruxmapsextensions>
+</extensions>
+</wpt>
+</gpx>
