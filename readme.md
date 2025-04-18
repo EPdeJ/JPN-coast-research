@@ -279,7 +279,7 @@ finalmap <- tm_shape(location.data, bbox = bounding.box.two)+
   tm_symbols(shape=7, 
              fill_alpha = 0,
              col="group",
-             col.legend = tm_legend(title = "Transect"),
+             col.legend = tm_legend(title = ""),
              shape.scale = tm_scale_categorical(values=c(4, 10,5))
              )+
   tm_compass(type = "arrow",position = c("left","top"), bg.alpha = 0)+
